@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-btn-client-side-solution",
+    "id": "24adb38d-6016-40a3-8299-8eaae59f9617",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Spfx_Btn description"
+      },
+      "longDescription": {
+        "default": "Spfx_Btn description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-btn Feature",
+        "description": "The feature that activates elements of the spfx-btn solution.",
+        "id": "bc1f8a33-4b18-4f3a-9480-bc0b1f1e22e7",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-btn.sppkg"
+  }
+}
